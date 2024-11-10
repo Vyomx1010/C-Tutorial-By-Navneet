@@ -43,6 +43,9 @@ Imagine you have a recipe written in Italian, but you only understand English. M
 
 Use this document as a quick guide to understand these terms and their roles in C/C++ programming!
 
----
+---## License
 
-© 2024 VyomX. All rights reserved.
+&copy; 2024 Vyom.x. All rights reserved.
+
+This document and all associated files in this repository are the intellectual property of Vyom.x and are intended solely for educational and informational purposes. Unauthorized copying, reproduction, or distribution of any part of this document without prior permission from the owner is strictly prohibited.
+
