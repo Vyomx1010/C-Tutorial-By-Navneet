@@ -38,6 +38,7 @@
 7. [Conclusion](#conclusion)
 8. [License](#license)
 
+
 ## Overview
 This module helps you set up your development environment for C programming. We will use MinGW as the compiler, and you can choose from Code::Blocks or Visual Studio Code (VS Code) as the Integrated Development Environment (IDE).
 
@@ -52,7 +53,7 @@ To install and configure MinGW as the C compiler and set up an IDE to write, com
 
 #### Step 1: Install MinGW
 1. **Download MinGW**:
-   - Visit the MinGW download page: [https://www.mingw-w64.org/downloads/](https://www.mingw-w64.org/downloads/).
+   - Visit the MinGW download page: [https://sourceforge.net/projects/mingw/](https://sourceforge.net/projects/mingw/).
    - Choose the appropriate version for your system (64-bit or 32-bit).
 
 2. **Install MinGW**:
