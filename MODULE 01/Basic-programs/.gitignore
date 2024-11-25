@@ -1,0 +1,49 @@
+# Ignore object files
+*.o
+*.obj
+
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore backup files
+*~
+*.bak
+*.tmp
+
+# Ignore IDE specific files
+# For Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# For Code::Blocks
+*.cbp
+*.layout
+
+# For Eclipse
+.settings/
+*.cproject
+*.project
+
+# For Xcode
+*.xcodeproj/
+*.xcworkspace/
+
+# Ignore CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Ignore other common files
+*.log
+*.dSYM/
